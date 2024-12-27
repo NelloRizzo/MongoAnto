@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoUtils", "MongoUtils\MongoUtils.csproj", "{3263A154-C22E-4777-BA73-6B6FD582DD22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tonii_dev", "tonii_dev\tonii_dev.csproj", "{1F09848C-49B1-4E61-9158-5C0344575F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3263A154-C22E-4777-BA73-6B6FD582DD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3263A154-C22E-4777-BA73-6B6FD582DD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3263A154-C22E-4777-BA73-6B6FD582DD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3263A154-C22E-4777-BA73-6B6FD582DD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F09848C-49B1-4E61-9158-5C0344575F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F09848C-49B1-4E61-9158-5C0344575F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F09848C-49B1-4E61-9158-5C0344575F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F09848C-49B1-4E61-9158-5C0344575F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

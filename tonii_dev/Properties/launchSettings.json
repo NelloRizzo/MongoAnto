@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "tonii_dev": {
+      "commandName": "Project",
+      "commandLineArgs": "copyright-shii.jar"
+    }
+  }
+}
